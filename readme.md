@@ -1,6 +1,11 @@
 # Laravel Helper for fullcalendar.io
 
-[![Latest Stable Version](https://poser.pugx.org/asdfx/laravel-fullcalendar/v/stable)](https://packagist.org/packages/asdfx/laravel-fullcalendar) [![Total Downloads](https://poser.pugx.org/asdfx/laravel-fullcalendar/downloads)](https://packagist.org/packages/asdfx/laravel-fullcalendar) [![Latest Unstable Version](https://poser.pugx.org/asdfx/laravel-fullcalendar/v/unstable)](https://packagist.org/packages/asdfx/laravel-fullcalendar) [![License](https://poser.pugx.org/asdfx/laravel-fullcalendar/license)](https://packagist.org/packages/Asdfx/laravel-fullcalendar)
+[![Latest Stable Version](https://poser.pugx.org/asdfx/laravel-fullcalendar/v)](//packagist.org/packages/asdfx/laravel-fullcalendar)
+[![Total Downloads](https://poser.pugx.org/asdfx/laravel-fullcalendar/downloads)](//packagist.org/packages/asdfx/laravel-fullcalendar)
+[![License](https://poser.pugx.org/asdfx/laravel-fullcalendar/license)](//packagist.org/packages/asdfx/laravel-fullcalendar)
+[![CircleCI](https://circleci.com/gh/agjmills/laravel-fullcalendar.svg?style=shield)](https://circleci.com/gh/agjmills/laravel-fullcalendar)
+
+
 
 This is a simple helper package to make generating [http://fullcalendar.io](http://fullcalendar.io) in Laravel apps easier.
 
