@@ -1,6 +1,6 @@
 <?php
 
-namespace MaddHatter\LaravelFullcalendar;
+namespace Asdfx\LaravelFullcalendar;
 
 use ArrayAccess;
 use DateTime;

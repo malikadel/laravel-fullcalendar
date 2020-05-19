@@ -1,4 +1,6 @@
-<?php namespace MaddHatter\LaravelFullcalendar;
+<?php
+
+namespace Asdfx\LaravelFullcalendar;
 
 interface IdentifiableEvent extends Event
 {
