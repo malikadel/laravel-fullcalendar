@@ -1,11 +1,11 @@
 # Laravel Helper for fullcalendar.io
 
+Forked from `maddhatter/laravel-fullcalendar` to be compatible with Laravel 6.0+
+
 [![Latest Stable Version](https://poser.pugx.org/asdfx/laravel-fullcalendar/v)](//packagist.org/packages/asdfx/laravel-fullcalendar)
 [![Total Downloads](https://poser.pugx.org/asdfx/laravel-fullcalendar/downloads)](//packagist.org/packages/asdfx/laravel-fullcalendar)
 [![License](https://poser.pugx.org/asdfx/laravel-fullcalendar/license)](//packagist.org/packages/asdfx/laravel-fullcalendar)
 [![CircleCI](https://circleci.com/gh/agjmills/laravel-fullcalendar.svg?style=shield)](https://circleci.com/gh/agjmills/laravel-fullcalendar)
-
-
 
 This is a simple helper package to make generating [http://fullcalendar.io](http://fullcalendar.io) in Laravel apps easier.
 

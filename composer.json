@@ -4,12 +4,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Shawn Tunney",
-            "email": "shawn.tunney@gmail.com"
-        },
-        {
             "name": "Alex Mills",
             "email": "alex@asdfx.is"
+        },
+        {
+            "name": "Shawn Tunney",
+            "email": "shawn.tunney@gmail.com"
         }
     ],
     "require": {
