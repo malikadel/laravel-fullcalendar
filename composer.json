@@ -1,11 +1,15 @@
 {
-    "name": "agjmills/laravel-fullcalendar",
+    "name": "asdfx/laravel-fullcalendar",
     "description": "Laravel helper for FullCalendar.io",
     "license": "MIT",
     "authors": [
         {
             "name": "Shawn Tunney",
             "email": "shawn.tunney@gmail.com"
+        },
+        {
+            "name": "Alex Mills",
+            "email": "alex@asdfx.is"
         }
     ],
     "require": {
@@ -14,16 +18,16 @@
     },
     "autoload": {
         "psr-0": {
-            "MaddHatter\\LaravelFullcalendar": "src/"
+            "Asdfx\\LaravelFullcalendar": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "MaddHatter\\LaravelFullcalendar\\ServiceProvider"
+                "Asdfx\\LaravelFullcalendar\\ServiceProvider"
             ],
             "aliases": {
-                "Calendar": "MaddHatter\\LaravelFullcalendar\\Facades\\Calendar"
+                "Calendar": "Asdfx\\LaravelFullcalendar\\Facades\\Calendar"
             }
         }
     },
