@@ -7,7 +7,7 @@ use DateTime;
  *
  * Simple DTO that implements the Event interface
  *
- * @package MaddHatter\LaravelFullcalendar
+ * @package Asdfx\LaravelFullcalendar
  */
 class SimpleEvent implements IdentifiableEvent
 {
