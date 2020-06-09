@@ -1,13 +1,14 @@
 # Laravel Helper for fullcalendar.io
 
-Forked from `maddhatter/laravel-fullcalendar` to be compatible with Laravel 6.0+
-
 [![Latest Stable Version](https://poser.pugx.org/asdfx/laravel-fullcalendar/v)](//packagist.org/packages/asdfx/laravel-fullcalendar)
 [![Total Downloads](https://poser.pugx.org/asdfx/laravel-fullcalendar/downloads)](//packagist.org/packages/asdfx/laravel-fullcalendar)
 [![License](https://poser.pugx.org/asdfx/laravel-fullcalendar/license)](//packagist.org/packages/asdfx/laravel-fullcalendar)
 [![CircleCI](https://circleci.com/gh/agjmills/laravel-fullcalendar.svg?style=shield)](https://circleci.com/gh/agjmills/laravel-fullcalendar)
 
 This is a simple helper package to make generating [http://fullcalendar.io](http://fullcalendar.io) in Laravel apps easier.
+
+For fullcalendar <=2.0, please use the v1 version. 
+For v4 onwards, please use the v2 version.
 
 ## Installing
 Require the package with composer using the following command:
@@ -18,26 +19,10 @@ Or add the following to your composer.json's require section and `composer updat
 
 ```json
 "require": {
-	"Asdfx/asdfx-fullcalendar": "~1.0"
+	"asdfx/laravel-fullcalendar": "^2.0"
 }
 ```
 
-### Laravel 5.4 (and earlier)
-
-Register the service provider in your `app.php` config file:
-
-```php
-Asdfx\LaravelFullcalendar\ServiceProvider::class,
-```
-
-And optionally create an alias:
-
-```php
-'Calendar' => Asdfx\LaravelFullcalendar\Facades\Calendar::class,
-
-```
-
-### Laravel 5.5+
 The provider and `Calendar` alias will be registered automatically.
 
 You will also need to include [fullcalendar.io](http://fullcalendar.io/)'s files in your HTML.
