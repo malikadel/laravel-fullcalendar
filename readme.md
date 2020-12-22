@@ -13,13 +13,13 @@ For v4 onwards, please use the v2 version.
 ## Installing
 Require the package with composer using the following command:
 
-    composer require awais-vteams/laravel-fullcalendar
+    composer require malikadel/laravel-fullcalendar
 
 Or add the following to your composer.json's require section and `composer update`
 
 ```json
 "require": {
-	"awais-vteams/laravel-fullcalendar": "^1.0"
+	"malikadel/laravel-fullcalendar": "^1.0"
 }
 ```
 
