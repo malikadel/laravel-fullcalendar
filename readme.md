@@ -1,4 +1,4 @@
-# Laravel Helper for fullcalendar.io
+# Laravel 8 Helper for fullcalendar.io
 
 [![Latest Stable Version](https://poser.pugx.org/asdfx/laravel-fullcalendar/v)](//packagist.org/packages/asdfx/laravel-fullcalendar)
 [![Total Downloads](https://poser.pugx.org/asdfx/laravel-fullcalendar/downloads)](//packagist.org/packages/asdfx/laravel-fullcalendar)
@@ -13,13 +13,13 @@ For v4 onwards, please use the v2 version.
 ## Installing
 Require the package with composer using the following command:
 
-    composer require asdfx/laravel-fullcalendar
+    composer require awais-vteams/laravel-fullcalendar
 
 Or add the following to your composer.json's require section and `composer update`
 
 ```json
 "require": {
-	"asdfx/laravel-fullcalendar": "^2.0"
+	"awais-vteams/laravel-fullcalendar": "^2.0"
 }
 ```
 
