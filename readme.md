@@ -19,7 +19,7 @@ Or add the following to your composer.json's require section and `composer updat
 
 ```json
 "require": {
-	"awais-vteams/laravel-fullcalendar": "^2.0"
+	"awais-vteams/laravel-fullcalendar": "^1.0"
 }
 ```
 
