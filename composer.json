@@ -1,6 +1,6 @@
 {
-    "name": "awais-vteams/laravel-fullcalendar",
-    "description": "Laravel helper for FullCalendar.io",
+    "name": "malikadel/laravel-fullcalendar",
+    "description": "Laravel 7/8 helper for FullCalendar.io",
     "license": "MIT",
     "authors": [
         {
